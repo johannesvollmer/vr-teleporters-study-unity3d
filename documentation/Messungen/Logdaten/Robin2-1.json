@@ -1,0 +1,1834 @@
+{
+    "log": [
+        {
+            "seconds": 35.406002044677737,
+            "action": "grab",
+            "subject": "GrabCube1"
+        },
+        {
+            "seconds": 36.59700012207031,
+            "action": "release-grab",
+            "subject": "GrabCube1"
+        },
+        {
+            "seconds": 36.608001708984378,
+            "action": "drop",
+            "subject": "DropPlatform1"
+        },
+        {
+            "seconds": 36.60900115966797,
+            "action": "start",
+            "subject": ""
+        },
+        {
+            "seconds": 109.39400482177735,
+            "action": "level-up",
+            "subject": "0"
+        },
+        {
+            "seconds": 117.70100402832031,
+            "action": "depth_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 119.1310043334961,
+            "action": "depth_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 119.8010025024414,
+            "action": "depth_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 120.4830093383789,
+            "action": "depth_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 121.30900573730469,
+            "action": "depth_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 123.64200592041016,
+            "action": "depth_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 124.63800811767578,
+            "action": "depth_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 126.34700775146485,
+            "action": "depth_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 127.57500457763672,
+            "action": "depth_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 130.77000427246095,
+            "action": "depth_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 133.35000610351563,
+            "action": "depth_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 134.635009765625,
+            "action": "depth_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 136.6320037841797,
+            "action": "depth_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 137.33900451660157,
+            "action": "depth_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 138.1090087890625,
+            "action": "depth_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 139.1590118408203,
+            "action": "depth_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 141.4600067138672,
+            "action": "depth_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 144.30801391601563,
+            "action": "depth_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 145.0900115966797,
+            "action": "depth_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 148.62001037597657,
+            "action": "grab",
+            "subject": "GrabCube1"
+        },
+        {
+            "seconds": 150.12701416015626,
+            "action": "release-grab",
+            "subject": "GrabCube1"
+        },
+        {
+            "seconds": 150.13900756835938,
+            "action": "drop",
+            "subject": "DropPlatform1"
+        },
+        {
+            "seconds": 153.36700439453126,
+            "action": "depth_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 155.031005859375,
+            "action": "grab",
+            "subject": "GrabCube2"
+        },
+        {
+            "seconds": 157.52200317382813,
+            "action": "depth_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 158.27000427246095,
+            "action": "depth_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 159.20901489257813,
+            "action": "depth_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 160.30300903320313,
+            "action": "release-grab",
+            "subject": "GrabCube2"
+        },
+        {
+            "seconds": 160.59400939941407,
+            "action": "drop",
+            "subject": "DropPlatform2"
+        },
+        {
+            "seconds": 162.135009765625,
+            "action": "depth_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 164.36900329589845,
+            "action": "depth_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 166.21200561523438,
+            "action": "grab",
+            "subject": "GrabCube5"
+        },
+        {
+            "seconds": 167.3070068359375,
+            "action": "depth_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 168.68101501464845,
+            "action": "depth_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 169.7310028076172,
+            "action": "depth_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 171.76400756835938,
+            "action": "depth_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 173.864013671875,
+            "action": "release-grab",
+            "subject": "GrabCube5"
+        },
+        {
+            "seconds": 173.87501525878907,
+            "action": "drop",
+            "subject": "DropPlatform5"
+        },
+        {
+            "seconds": 177.3820037841797,
+            "action": "depth_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 177.79501342773438,
+            "action": "depth_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 178.28700256347657,
+            "action": "depth_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 180.42001342773438,
+            "action": "grab",
+            "subject": "GrabCube4"
+        },
+        {
+            "seconds": 181.94000244140626,
+            "action": "depth_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 182.4320068359375,
+            "action": "depth_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 183.7270050048828,
+            "action": "release-grab",
+            "subject": "GrabCube4"
+        },
+        {
+            "seconds": 183.73800659179688,
+            "action": "drop",
+            "subject": "DropPlatform4"
+        },
+        {
+            "seconds": 185.4580078125,
+            "action": "depth_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 185.87200927734376,
+            "action": "depth_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 186.1850128173828,
+            "action": "depth_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 186.84300231933595,
+            "action": "depth_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 187.67100524902345,
+            "action": "grab",
+            "subject": "GrabCube6"
+        },
+        {
+            "seconds": 189.88101196289063,
+            "action": "depth_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 190.3620147705078,
+            "action": "depth_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 192.0150146484375,
+            "action": "depth_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 192.8520050048828,
+            "action": "release-grab",
+            "subject": "GrabCube6"
+        },
+        {
+            "seconds": 192.864013671875,
+            "action": "drop",
+            "subject": "DropPlatform6"
+        },
+        {
+            "seconds": 194.5500030517578,
+            "action": "depth_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 194.9420166015625,
+            "action": "depth_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 197.48800659179688,
+            "action": "depth_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 197.83401489257813,
+            "action": "depth_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 198.1020050048828,
+            "action": "depth_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 198.57101440429688,
+            "action": "depth_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 200.38101196289063,
+            "action": "grab",
+            "subject": "GrabCube3"
+        },
+        {
+            "seconds": 201.19700622558595,
+            "action": "depth_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 201.4420166015625,
+            "action": "depth_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 201.7550048828125,
+            "action": "depth_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 202.41200256347657,
+            "action": "depth_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 203.3520050048828,
+            "action": "release-grab",
+            "subject": "GrabCube3"
+        },
+        {
+            "seconds": 203.4080047607422,
+            "action": "drop",
+            "subject": "DropPlatform3"
+        },
+        {
+            "seconds": 203.4090118408203,
+            "action": "end",
+            "subject": ""
+        },
+        {
+            "seconds": 208.3820037841797,
+            "action": "level-up",
+            "subject": "1"
+        },
+        {
+            "seconds": 211.7630157470703,
+            "action": "acr_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 215.85101318359376,
+            "action": "acr_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 217.21400451660157,
+            "action": "acr_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 218.76600646972657,
+            "action": "acr_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 222.1630096435547,
+            "action": "acr_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 223.6370086669922,
+            "action": "acr_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 225.67001342773438,
+            "action": "acr_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 227.91500854492188,
+            "action": "acr_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 229.2100067138672,
+            "action": "acr_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 230.77500915527345,
+            "action": "acr_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 232.541015625,
+            "action": "acr_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 233.0880126953125,
+            "action": "acr_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 233.64500427246095,
+            "action": "acr_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 234.5950164794922,
+            "action": "acr_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 237.1640167236328,
+            "action": "acr_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 238.0910186767578,
+            "action": "grab",
+            "subject": "GrabCube1"
+        },
+        {
+            "seconds": 239.43101501464845,
+            "action": "release-grab",
+            "subject": "GrabCube1"
+        },
+        {
+            "seconds": 239.4420166015625,
+            "action": "drop",
+            "subject": "DropPlatform1"
+        },
+        {
+            "seconds": 239.44300842285157,
+            "action": "start",
+            "subject": ""
+        },
+        {
+            "seconds": 240.35801696777345,
+            "action": "acr_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 243.61001586914063,
+            "action": "grab",
+            "subject": "GrabCube2"
+        },
+        {
+            "seconds": 245.05001831054688,
+            "action": "acr_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 247.1610107421875,
+            "action": "acr_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 247.57400512695313,
+            "action": "acr_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 248.92601013183595,
+            "action": "release-grab",
+            "subject": "GrabCube2"
+        },
+        {
+            "seconds": 248.9700164794922,
+            "action": "drop",
+            "subject": "DropPlatform2"
+        },
+        {
+            "seconds": 249.64100646972657,
+            "action": "remove-drop",
+            "subject": "DropPlatform2"
+        },
+        {
+            "seconds": 250.00901794433595,
+            "action": "grab",
+            "subject": "GrabCube2"
+        },
+        {
+            "seconds": 250.8920135498047,
+            "action": "release-grab",
+            "subject": "GrabCube2"
+        },
+        {
+            "seconds": 251.03701782226563,
+            "action": "drop",
+            "subject": "DropPlatform2"
+        },
+        {
+            "seconds": 252.51101684570313,
+            "action": "acr_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 252.9580078125,
+            "action": "acr_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 254.13101196289063,
+            "action": "acr_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 255.52700805664063,
+            "action": "acr_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 259.1130065917969,
+            "action": "grab",
+            "subject": "GrabCube6"
+        },
+        {
+            "seconds": 260.16302490234377,
+            "action": "acr_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 260.5429992675781,
+            "action": "acr_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 261.1460266113281,
+            "action": "acr_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 262.2070007324219,
+            "action": "release-grab",
+            "subject": "GrabCube6"
+        },
+        {
+            "seconds": 262.26300048828127,
+            "action": "drop",
+            "subject": "DropPlatform6"
+        },
+        {
+            "seconds": 264.27301025390627,
+            "action": "acr_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 265.8480224609375,
+            "action": "acr_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 267.5460205078125,
+            "action": "grab",
+            "subject": "GrabCube4"
+        },
+        {
+            "seconds": 269.4560241699219,
+            "action": "acr_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 270.5360107421875,
+            "action": "acr_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 271.2770080566406,
+            "action": "release-grab",
+            "subject": "GrabCube4"
+        },
+        {
+            "seconds": 271.37701416015627,
+            "action": "drop",
+            "subject": "DropPlatform4"
+        },
+        {
+            "seconds": 272.98602294921877,
+            "action": "acr_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 274.60601806640627,
+            "action": "grab",
+            "subject": "GrabCube3"
+        },
+        {
+            "seconds": 276.1360168457031,
+            "action": "acr_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 277.1750183105469,
+            "action": "acr_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 277.63201904296877,
+            "action": "release-grab",
+            "subject": "GrabCube3"
+        },
+        {
+            "seconds": 277.6440124511719,
+            "action": "drop",
+            "subject": "DropPlatform3"
+        },
+        {
+            "seconds": 279.2070007324219,
+            "action": "acr_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 280.60400390625,
+            "action": "acr_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 282.1000061035156,
+            "action": "grab",
+            "subject": "GrabCube5"
+        },
+        {
+            "seconds": 283.4070129394531,
+            "action": "acr_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 284.9040222167969,
+            "action": "acr_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 286.42401123046877,
+            "action": "release-grab",
+            "subject": "GrabCube5"
+        },
+        {
+            "seconds": 286.8030090332031,
+            "action": "drop",
+            "subject": "DropPlatform5"
+        },
+        {
+            "seconds": 286.8030090332031,
+            "action": "end",
+            "subject": ""
+        },
+        {
+            "seconds": 287.551025390625,
+            "action": "acr_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 290.4230041503906,
+            "action": "level-up",
+            "subject": "2"
+        },
+        {
+            "seconds": 300.56500244140627,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 306.25,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 314.4930114746094,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 316.5480041503906,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 317.9670104980469,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 320.156005859375,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 321.3960266113281,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 326.0760192871094,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 328.75701904296877,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 330.44403076171877,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 331.53802490234377,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 334.1860046386719,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 335.3480224609375,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 336.71002197265627,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 338.9670104980469,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 342.530029296875,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 343.7580261230469,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 344.90802001953127,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 345.9930114746094,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 347.5340270996094,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 350.38201904296877,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 352.61602783203127,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 353.97900390625,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 354.2690124511719,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 356.60400390625,
+            "action": "grab",
+            "subject": "GrabCube1"
+        },
+        {
+            "seconds": 358.2010192871094,
+            "action": "release-grab",
+            "subject": "GrabCube1"
+        },
+        {
+            "seconds": 358.2120056152344,
+            "action": "drop",
+            "subject": "DropPlatform1"
+        },
+        {
+            "seconds": 358.2130126953125,
+            "action": "start",
+            "subject": ""
+        },
+        {
+            "seconds": 359.3630065917969,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 361.2720031738281,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 362.8370056152344,
+            "action": "grab",
+            "subject": "GrabCube2"
+        },
+        {
+            "seconds": 363.9200134277344,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 365.08203125,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 366.0530090332031,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 366.60101318359377,
+            "action": "release-grab",
+            "subject": "GrabCube2"
+        },
+        {
+            "seconds": 367.91900634765627,
+            "action": "grab",
+            "subject": "GrabCube2"
+        },
+        {
+            "seconds": 368.91302490234377,
+            "action": "release-grab",
+            "subject": "GrabCube2"
+        },
+        {
+            "seconds": 369.0140075683594,
+            "action": "drop",
+            "subject": "DropPlatform2"
+        },
+        {
+            "seconds": 370.7540283203125,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 372.4090270996094,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 373.906005859375,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 375.9280090332031,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 377.8260192871094,
+            "action": "grab",
+            "subject": "GrabCube5"
+        },
+        {
+            "seconds": 378.83203125,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 380.0830078125,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 383.27801513671877,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 385.7130126953125,
+            "action": "release-grab",
+            "subject": "GrabCube5"
+        },
+        {
+            "seconds": 385.8240051269531,
+            "action": "grab",
+            "subject": "GrabCube5"
+        },
+        {
+            "seconds": 386.45001220703127,
+            "action": "release-grab",
+            "subject": "GrabCube5"
+        },
+        {
+            "seconds": 386.61700439453127,
+            "action": "drop",
+            "subject": "DropPlatform5"
+        },
+        {
+            "seconds": 389.53302001953127,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 390.739013671875,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 392.9620056152344,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 394.134033203125,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 396.14501953125,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 397.3180236816406,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 398.77001953125,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 399.85400390625,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 401.51800537109377,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 402.6230163574219,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 403.9200134277344,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 405.259033203125,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 406.8910217285156,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 408.6780090332031,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 410.4200134277344,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 412.1510314941406,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 414.5860290527344,
+            "action": "grab",
+            "subject": "GrabCube6"
+        },
+        {
+            "seconds": 416.0390319824219,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 417.5130310058594,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 418.80902099609377,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 420.58502197265627,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 422.384033203125,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 424.0250244140625,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 425.2430114746094,
+            "action": "release-grab",
+            "subject": "GrabCube6"
+        },
+        {
+            "seconds": 426.7060241699219,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 430.760009765625,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 431.6980285644531,
+            "action": "grab",
+            "subject": "GrabCube6"
+        },
+        {
+            "seconds": 433.0390319824219,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 433.72100830078127,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 435.0050354003906,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 437.03802490234377,
+            "action": "release-grab",
+            "subject": "GrabCube6"
+        },
+        {
+            "seconds": 437.0500183105469,
+            "action": "drop",
+            "subject": "DropPlatform6"
+        },
+        {
+            "seconds": 439.1600341796875,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 440.8470153808594,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 442.14202880859377,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 443.3600158691406,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 444.2650146484375,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 446.2080078125,
+            "action": "grab",
+            "subject": "GrabCube3"
+        },
+        {
+            "seconds": 447.53802490234377,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 448.9790344238281,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 450.17401123046877,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 451.43603515625,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 452.7430114746094,
+            "action": "release-grab",
+            "subject": "GrabCube3"
+        },
+        {
+            "seconds": 452.8880310058594,
+            "action": "drop",
+            "subject": "DropPlatform3"
+        },
+        {
+            "seconds": 454.2960205078125,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 455.64801025390627,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 457.31103515625,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 458.9420166015625,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 460.6620178222656,
+            "action": "grab",
+            "subject": "GrabCube4"
+        },
+        {
+            "seconds": 461.635009765625,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 463.10601806640627,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 464.46002197265627,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 465.9790344238281,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 467.4210205078125,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 468.5260314941406,
+            "action": "remove-drop",
+            "subject": "DropPlatform6"
+        },
+        {
+            "seconds": 470.2790222167969,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 473.24102783203127,
+            "action": "release-grab",
+            "subject": "GrabCube4"
+        },
+        {
+            "seconds": 473.95501708984377,
+            "action": "drop",
+            "subject": "DropPlatform4"
+        },
+        {
+            "seconds": 473.989013671875,
+            "action": "remove-drop",
+            "subject": "DropPlatform4"
+        },
+        {
+            "seconds": 474.2900085449219,
+            "action": "drop",
+            "subject": "DropPlatform4"
+        },
+        {
+            "seconds": 474.7710266113281,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 476.60101318359377,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 478.2320251464844,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 479.99700927734377,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 481.6510314941406,
+            "action": "grab",
+            "subject": "GrabCube6"
+        },
+        {
+            "seconds": 482.9460144042969,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 485.08001708984377,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 486.6100158691406,
+            "action": "release-grab",
+            "subject": "GrabCube6"
+        },
+        {
+            "seconds": 486.6770324707031,
+            "action": "drop",
+            "subject": "DropPlatform6"
+        },
+        {
+            "seconds": 486.6770324707031,
+            "action": "end",
+            "subject": ""
+        },
+        {
+            "seconds": 491.2130126953125,
+            "action": "level-up",
+            "subject": "3"
+        },
+        {
+            "seconds": 499.1980285644531,
+            "action": "flying",
+            "subject": ""
+        },
+        {
+            "seconds": 504.54803466796877,
+            "action": "flying",
+            "subject": ""
+        },
+        {
+            "seconds": 507.4530334472656,
+            "action": "flying",
+            "subject": ""
+        },
+        {
+            "seconds": 511.26202392578127,
+            "action": "flying",
+            "subject": ""
+        },
+        {
+            "seconds": 515.998046875,
+            "action": "grab",
+            "subject": "GrabCube1"
+        },
+        {
+            "seconds": 518.2540283203125,
+            "action": "release-grab",
+            "subject": "GrabCube1"
+        },
+        {
+            "seconds": 518.4110107421875,
+            "action": "drop",
+            "subject": "DropPlatform1"
+        },
+        {
+            "seconds": 518.4110107421875,
+            "action": "start",
+            "subject": ""
+        },
+        {
+            "seconds": 519.5830078125,
+            "action": "flying",
+            "subject": ""
+        },
+        {
+            "seconds": 520.4660034179688,
+            "action": "flying",
+            "subject": ""
+        },
+        {
+            "seconds": 523.60400390625,
+            "action": "flying",
+            "subject": ""
+        },
+        {
+            "seconds": 526.0950317382813,
+            "action": "flying",
+            "subject": ""
+        },
+        {
+            "seconds": 527.1570434570313,
+            "action": "grab",
+            "subject": "GrabCube2"
+        },
+        {
+            "seconds": 529.8480224609375,
+            "action": "flying",
+            "subject": ""
+        },
+        {
+            "seconds": 532.6630249023438,
+            "action": "release-grab",
+            "subject": "GrabCube2"
+        },
+        {
+            "seconds": 532.8200073242188,
+            "action": "drop",
+            "subject": "DropPlatform2"
+        },
+        {
+            "seconds": 533.7470092773438,
+            "action": "flying",
+            "subject": ""
+        },
+        {
+            "seconds": 536.696044921875,
+            "action": "flying",
+            "subject": ""
+        },
+        {
+            "seconds": 541.1190185546875,
+            "action": "flying",
+            "subject": ""
+        },
+        {
+            "seconds": 547.7540283203125,
+            "action": "grab",
+            "subject": "GrabCube6"
+        },
+        {
+            "seconds": 549.7530517578125,
+            "action": "flying",
+            "subject": ""
+        },
+        {
+            "seconds": 564.3300170898438,
+            "action": "release-grab",
+            "subject": "GrabCube6"
+        },
+        {
+            "seconds": 564.6880493164063,
+            "action": "drop",
+            "subject": "DropPlatform6"
+        },
+        {
+            "seconds": 564.7660522460938,
+            "action": "remove-drop",
+            "subject": "DropPlatform6"
+        },
+        {
+            "seconds": 565.5700073242188,
+            "action": "flying",
+            "subject": ""
+        },
+        {
+            "seconds": 567.0339965820313,
+            "action": "grab",
+            "subject": "GrabCube6"
+        },
+        {
+            "seconds": 568.072021484375,
+            "action": "release-grab",
+            "subject": "GrabCube6"
+        },
+        {
+            "seconds": 568.0940551757813,
+            "action": "drop",
+            "subject": "DropPlatform6"
+        },
+        {
+            "seconds": 568.9100341796875,
+            "action": "flying",
+            "subject": ""
+        },
+        {
+            "seconds": 573.8460083007813,
+            "action": "grab",
+            "subject": "GrabCube5"
+        },
+        {
+            "seconds": 574.6620483398438,
+            "action": "flying",
+            "subject": ""
+        },
+        {
+            "seconds": 579.0960083007813,
+            "action": "release-grab",
+            "subject": "GrabCube5"
+        },
+        {
+            "seconds": 579.3650512695313,
+            "action": "drop",
+            "subject": "DropPlatform5"
+        },
+        {
+            "seconds": 580.0140380859375,
+            "action": "flying",
+            "subject": ""
+        },
+        {
+            "seconds": 580.0230102539063,
+            "action": "flying",
+            "subject": ""
+        },
+        {
+            "seconds": 583.6310424804688,
+            "action": "flying",
+            "subject": ""
+        },
+        {
+            "seconds": 587.675048828125,
+            "action": "flying",
+            "subject": ""
+        },
+        {
+            "seconds": 588.77001953125,
+            "action": "grab",
+            "subject": "GrabCube3"
+        },
+        {
+            "seconds": 589.7750244140625,
+            "action": "flying",
+            "subject": ""
+        },
+        {
+            "seconds": 596.3200073242188,
+            "action": "flying",
+            "subject": ""
+        },
+        {
+            "seconds": 596.968017578125,
+            "action": "flying",
+            "subject": ""
+        },
+        {
+            "seconds": 598.2980346679688,
+            "action": "release-grab",
+            "subject": "GrabCube3"
+        },
+        {
+            "seconds": 598.3090209960938,
+            "action": "drop",
+            "subject": "DropPlatform3"
+        },
+        {
+            "seconds": 600.2970581054688,
+            "action": "flying",
+            "subject": ""
+        },
+        {
+            "seconds": 610.22705078125,
+            "action": "grab",
+            "subject": "GrabCube4"
+        },
+        {
+            "seconds": 611.3440551757813,
+            "action": "flying",
+            "subject": ""
+        },
+        {
+            "seconds": 620.0230102539063,
+            "action": "release-grab",
+            "subject": "GrabCube4"
+        },
+        {
+            "seconds": 620.0350341796875,
+            "action": "drop",
+            "subject": "DropPlatform4"
+        },
+        {
+            "seconds": 620.0360107421875,
+            "action": "end",
+            "subject": ""
+        },
+        {
+            "seconds": 621.18505859375,
+            "action": "flying",
+            "subject": ""
+        },
+        {
+            "seconds": 625.7740478515625,
+            "action": "level-up",
+            "subject": "4"
+        },
+        {
+            "seconds": 630.2430419921875,
+            "action": "depth_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 632.1980590820313,
+            "action": "dragging",
+            "subject": ""
+        },
+        {
+            "seconds": 637.7940063476563,
+            "action": "depth_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 640.8660278320313,
+            "action": "depth_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 644.3060302734375,
+            "action": "depth_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 647.93701171875,
+            "action": "depth_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 649.02001953125,
+            "action": "depth_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 650.260009765625,
+            "action": "grab",
+            "subject": "GrabCube1"
+        },
+        {
+            "seconds": 651.2540283203125,
+            "action": "release-grab",
+            "subject": "GrabCube1"
+        },
+        {
+            "seconds": 651.2650146484375,
+            "action": "drop",
+            "subject": "DropPlatform1"
+        },
+        {
+            "seconds": 651.2660522460938,
+            "action": "start",
+            "subject": ""
+        },
+        {
+            "seconds": 652.405029296875,
+            "action": "depth_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 653.666015625,
+            "action": "depth_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 654.5490112304688,
+            "action": "grab",
+            "subject": "GrabCube5"
+        },
+        {
+            "seconds": 655.8340454101563,
+            "action": "depth_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 656.89501953125,
+            "action": "depth_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 659.1060180664063,
+            "action": "depth_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 660.0330200195313,
+            "action": "release-grab",
+            "subject": "GrabCube5"
+        },
+        {
+            "seconds": 660.0450439453125,
+            "action": "drop",
+            "subject": "DropPlatform5"
+        },
+        {
+            "seconds": 660.8500366210938,
+            "action": "depth_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 661.9540405273438,
+            "action": "grab",
+            "subject": "GrabCube2"
+        },
+        {
+            "seconds": 662.927001953125,
+            "action": "depth_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 664.8250122070313,
+            "action": "depth_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 665.9760131835938,
+            "action": "release-grab",
+            "subject": "GrabCube2"
+        },
+        {
+            "seconds": 665.987060546875,
+            "action": "drop",
+            "subject": "DropPlatform2"
+        },
+        {
+            "seconds": 669.5730590820313,
+            "action": "depth_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 672.1640014648438,
+            "action": "grab",
+            "subject": "GrabCube4"
+        },
+        {
+            "seconds": 673.873046875,
+            "action": "depth_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 674.4430541992188,
+            "action": "depth_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 675.280029296875,
+            "action": "release-grab",
+            "subject": "GrabCube4"
+        },
+        {
+            "seconds": 675.3360595703125,
+            "action": "drop",
+            "subject": "DropPlatform4"
+        },
+        {
+            "seconds": 677.26904296875,
+            "action": "depth_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 677.6260375976563,
+            "action": "depth_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 677.883056640625,
+            "action": "depth_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 679.134033203125,
+            "action": "depth_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 679.4020385742188,
+            "action": "depth_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 679.6700439453125,
+            "action": "depth_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 681.5800170898438,
+            "action": "depth_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 682.2050170898438,
+            "action": "grab",
+            "subject": "GrabCube6"
+        },
+        {
+            "seconds": 682.7870483398438,
+            "action": "depth_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 682.9760131835938,
+            "action": "depth_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 683.3900146484375,
+            "action": "depth_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 683.6920166015625,
+            "action": "depth_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 684.4510498046875,
+            "action": "depth_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 685.1770629882813,
+            "action": "release-grab",
+            "subject": "GrabCube6"
+        },
+        {
+            "seconds": 685.2450561523438,
+            "action": "drop",
+            "subject": "DropPlatform6"
+        },
+        {
+            "seconds": 687.008056640625,
+            "action": "depth_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 688.4380493164063,
+            "action": "depth_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 688.9520263671875,
+            "action": "grab",
+            "subject": "GrabCube3"
+        },
+        {
+            "seconds": 690.6730346679688,
+            "action": "depth_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 691.5440063476563,
+            "action": "depth_teleport",
+            "subject": ""
+        },
+        {
+            "seconds": 692.2030029296875,
+            "action": "release-grab",
+            "subject": "GrabCube3"
+        },
+        {
+            "seconds": 692.2140502929688,
+            "action": "drop",
+            "subject": "DropPlatform3"
+        },
+        {
+            "seconds": 692.2140502929688,
+            "action": "end",
+            "subject": ""
+        },
+        {
+            "seconds": 698.7260131835938,
+            "action": "depth_teleport",
+            "subject": ""
+        }
+    ]
+}
