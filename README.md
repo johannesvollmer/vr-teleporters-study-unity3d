@@ -1,4 +1,4 @@
-# vr teleporters for unity3d (simple ux study)
+# vr teleporters for unity3d: simple ux study
 A novel teleportation interaction design has been implemented for the HTC Vive. It has been tested against existing teleportation designs.
 
 # Purpose
