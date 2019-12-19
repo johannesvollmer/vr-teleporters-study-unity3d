@@ -8,11 +8,11 @@ This unity project was programmed as part of a simple study for a project at the
 The german presentation can be found in [documentation/Präsentation.pdf](documentation/Präsentation.pdf)
 
 # Visuals 
-The novel two-handed teleporter (Video)
+The novel two-handed teleporter (Video)  
 [![Teleporter Video](https://img.youtube.com/vi/Esc9T0a1oNU/0.jpg)](https://youtu.be/Esc9T0a1oNU)
 
 
-Selection of teleportation method (Video)
+Selection of teleportation method (Video)  
 [![Teleporter Video](https://img.youtube.com/vi/XK9lLqGHt38/0.jpg)](https://youtu.be/XK9lLqGHt38)
 
 
